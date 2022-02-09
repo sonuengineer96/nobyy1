@@ -1,3 +1,4 @@
+
 var love = setInterval(function(){
   var r_num = Math.floor(Math.random() * 40) + 1;
 	var r_size = Math.floor(Math.random() * 65) + 10;
@@ -12,7 +13,7 @@ var love = setInterval(function(){
 },500);
 
 var i = 0;
-var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!                                                                           > When I saw you for the first time < You seems something Special to me.  <<                  As the days goes < you get closer to me....! <<                           I don't know the reason why your face and all things always resonates inside my mind...!                                                     > Everything about you is always intresting for me...!                     << I am somewhat nervous Because I haven't said these words to anyone and I won't say to anyone in future...!                                                     > I Love you so much  as compare to  my Parents so much than anything else in this world....!                    << Now You are the only person  whom I love equally with my books or my life and career i dont think euall its more....!                                                             >I Love U <My SweetHeart my everything.....! |                  <<<<Dont leave me  my Bhuddy..... ...!";
+var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!                                                                           > When I saw you for the first time < You seems something Special to me.  <<                  As the days goes < you get closer to me....! <<                           I don't know the reason why your thoughts always resonates inside my mind...!                                                     > Everything about you is always intresting for me...!                     << I am somewhat nervous Because I haven't said these words to anyone and I won't say to anyone in future...!                                                     > I Love my Parents so much than anything else in this world....!                    << Now You are the only person  whom I love equally with my parents....!                                                             >I Love U <SweetHeart.....! |                  <<<< Give me One chance to Prove my Love ...!";
 var speed = 50;
 typeWriter();
 function typeWriter() {
